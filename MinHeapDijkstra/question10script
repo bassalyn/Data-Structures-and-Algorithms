@@ -1,0 +1,45 @@
+Script started on 2019-04-01 15:06:27-04:00
+bash-4.4$ who am i
+bassalyn pts/15       2019-04-01 15:06
+bash-4.4$ ./asn3 sssp_graph1.txt
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+The input graph in list representation format is: 
+The vertex 1 has the following edges
+(1,2)
+(1,3)
+(1,9)
+(1,8)
+(1,7)
+The vertex 2 has the following edges
+(2,4)
+The vertex 3 has the following edges
+(3,4)
+The vertex 4 has the following edges
+(4,5)
+The vertex 5 has the following edges
+(5,6)
+The vertex 6 has the following edges
+(6,2)
+(6,7)
+The vertex 7 has the following edges
+(7,6)
+The vertex 8 has the following edges
+(8,7)
+(8,2)
+The vertex 9 has the following edges
+(9,8)
+The shortest path tree output produced by Dijkstra's in order is: 
+Vertex: 1
+Vertex: 9
+Vertex: 3
+Vertex: 2
+Vertex: 4
+Vertex: 5
+Vertex: 8
+Vertex: 7
+Vertex: 6
+bash-4.4$ exit
+exit
+
+Script done on 2019-04-01 15:07:41-04:00
