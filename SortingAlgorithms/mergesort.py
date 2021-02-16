@@ -1,4 +1,4 @@
-import sys  #Author: Bradley Assaly-Nesrallah (250779140)
+import sys  #Author: Bradley Assaly-Nesrallah
 
 
 def mergeSort(array):       #implement mergesort in python for given array
