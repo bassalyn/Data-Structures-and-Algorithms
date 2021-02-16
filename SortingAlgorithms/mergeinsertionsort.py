@@ -1,4 +1,4 @@
-import sys  #Author: Bradley Assaly-Nesrallah (250779140)
+import sys  #Author: Bradley Assaly-Nesrallah 
 
 
 def insertionSort(array):               #insertionsort for a given array, same as in part a
