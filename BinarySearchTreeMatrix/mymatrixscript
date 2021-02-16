@@ -1,0 +1,29 @@
+Script started on Sun 25 Nov 2018 02:08:06 AM EST
+[?1034hbash-4.2$ who am i 
+bassalyn pts/1        2018-11-25 02:08
+bash-4.2$ date
+Sun Nov 25 02:08:14 EST 2018
+bash-4.2$ pwd 
+/gaul/s1/student/2018/bassalyn/Courses/asn4
+bash-4.2$ maek[K[Kke
+gcc -c main.c
+gcc -c matrix.c
+gcc -c bstree.c
+gcc -c datatype.c
+gcc -o mymatrix main.o matrix.o bstree.o datatype.o
+bash-4.2$ ./matrix[K[K[K[K[K[Kmymatrix 
+Enter the number of pairs of subkeys you would like to enter :5
+Enter two strings, two subkeys to insert :bba  aa 
+Enter two strings, two subkeys to insert : aab  aab
+Enter two strings, two subkeys to insert :bba  aa
+Enter two strings, two subkeys to insert :aab abb
+Enter two strings, two subkeys to insert :bba  aaa
+String 1   String 2   Occurences
+aab        aab        1         
+aab        abb        1         
+bba        aa         2         
+bba        aaa        1         
+bash-4.2$ exot [K[K[Kit
+exit
+
+Script done on Sun 25 Nov 2018 02:09:20 AM EST
