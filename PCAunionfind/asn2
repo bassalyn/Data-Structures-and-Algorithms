@@ -1,4 +1,0 @@
-#!/bin/bash
-javac main.java
-javac uandf.java
-java main $1
