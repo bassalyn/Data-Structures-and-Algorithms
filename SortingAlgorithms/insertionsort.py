@@ -1,4 +1,4 @@
-import sys  #Author Bradley Assaly-Nesrallh (250779140)
+import sys  #Author Bradley Assaly-Nesrallh 
 
 
 def insertionSort(array):                 #implement insertionshort for a given array
