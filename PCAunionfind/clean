@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm uandf.class
+rm main.class
+rm fNode.class
+rm treeNode.class
